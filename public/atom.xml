@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[董久龙的博客]]></title>
+  <subtitle><![CDATA[前端:任重|道远]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://dongweb.me//"/>
+  <updated>2015-08-05T06:53:29.000Z</updated>
+  <id>http://dongweb.me//</id>
+  
+  <author>
+    <name><![CDATA[DongJiuLong]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[用hexo新搞了一个个人博客]]></title>
+    <link href="http://dongweb.me/2014/09/05/%E7%94%A8hexo%E6%96%B0%E6%90%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://dongweb.me/2014/09/05/用hexo新搞了一个个人博客/</id>
+    <published>2014-09-05T06:01:16.000Z</published>
+    <updated>2015-08-05T06:53:29.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="hexo搭建个人博客参考文档">hexo搭建个人博客参考文档</h3><p>hexo官方文档:<a href="https://hexo.io/docs/" target="_blank" rel="external">https://hexo.io/docs/</a></p>
+<p>1.此篇文章的主要参考的重点是 “github pages”,当然玩转github的可以忽略，附上链接:<br>    <a href="http://www.pchou.info/web-build/2014/07/04/build-github-blog-page-08.html" target="_blank" rel="external">http://www.pchou.info/web-build/2014/07/04/build-github-blog-page-08.html</a>.<br>2.参考陈素封·独立写生的如何用hexo搭建独立博客:<br>    <a href="http://cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/" target="_blank" rel="external">如何用hexo搭建个人博客</a>。<br>3.参考飞雪无情的博客（使用Hexo在Github上搭建自己的博客）:<br>    <a href="http://cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/" target="_blank" rel="external">使用Hexo在Github上搭建自己的博客</a>。</p>
+<p>当然了，搭建完成后需要发表一篇文章或者图片，那就需要先掌握一些markdown的语法了，参考:<a href="http://www.appinn.com/markdown/" target="_blank" rel="external">http://www.appinn.com/markdown/</a></p>
+<p><strong>当然以上只是参考文档，并不能完全按照某一文档顺利搭建成功，我个人的搭建方法待时间充足时会做整理！！！</strong></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="hexo搭建个人博客参考文档">hexo搭建个人博客参考文档</h3><p>hexo官方文档:<a href="https://hexo.io/docs/" target="_blank" rel="external">https://hexo.io/docs/<]]>
+    </summary>
+    
+      <category term="hexo" scheme="http://dongweb.me/tags/hexo/"/>
+    
+      <category term="博客" scheme="http://dongweb.me/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="关于博客" scheme="http://dongweb.me/categories/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[可爱的猫咪]]></title>
+    <link href="http://dongweb.me/2014/09/05/%E5%9B%BE%E7%89%87/"/>
+    <id>http://dongweb.me/2014/09/05/图片/</id>
+    <published>2014-09-05T05:19:34.000Z</published>
+    <updated>2015-08-05T05:53:08.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    <![CDATA[一张猫咪图片]]>
+    
+    </summary>
+    
+      <category term="图片" scheme="http://dongweb.me/tags/%E5%9B%BE%E7%89%87/"/>
+    
+      <category term="图片" scheme="http://dongweb.me/categories/%E5%9B%BE%E7%89%87/"/>
+    
+  </entry>
+  
+</feed>
